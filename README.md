@@ -1,5 +1,7 @@
 # MazeGenerator
 Maze Generator is a project for Data Structure course | TCSS 342 | @the University of Washington Tacoma
+<br/>
+Maze Generator Program uses my own Graph Data Structure, and Depth First Search Algorithm.
 
 ## Description
 This program uses to build the 2-dimension maze with no cycles, which is many gaming applications require. 
